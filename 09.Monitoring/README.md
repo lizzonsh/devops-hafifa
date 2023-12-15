@@ -1,4 +1,4 @@
-# GRAFANA
+# GRAFANA TOOLS
 # PROMETHEUS
 # ELK
 # למה לאסוף לוגים
