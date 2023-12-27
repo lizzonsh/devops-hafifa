@@ -1,16 +1,16 @@
 # Getting Started
 
-### Workstation
+### Workstation - Basic Installations
+- VSCode
+- Gitbash
+- Python (3.9 recommended)
+    - Set up pypi 
+- NodeJS
+    - Set up npm config
+- VMRC Plugin in HW's Network files
+- Docker Desktop
+    - Set up Docker registery
+- MobaXterm
+- PyCharm (Recommended, not manditory)
 
-- The trainee should have a workstation to work at
-  - This can be any internet connected computer
-
-### Some reading
-- Read about the different Linux distributions
-
-### Starting to work
-- Install **VirtualBox** or **VirtManager** and **Vagrant** on the trainee's workstation
-- Start a centos/7 VM
-- The trainee can now get his hands dirty using this VM
-
-![vagrant](./vms.png)
+Everything can be found in the AppStore :)
