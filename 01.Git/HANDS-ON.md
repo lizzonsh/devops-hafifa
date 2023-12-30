@@ -5,7 +5,7 @@ get ready to meet Repositories in Azure DevOps's git!
 
 # Task
 In DevOps project:
-- Create a repo with the next format: [name]-training
+- Create a repo with the next format: [your-name]-training
 - Create a new branch with the name of the chapter: ITTools
 - Set in branch policies a policy that you cannot commit directly into "main"
 
