@@ -14,4 +14,6 @@ Now create your own virtual machine, in windows:
 
 ## Notes
 - Ask someone from the team in which network to create it
-- There is a guide on how to create a VM
+- There is a guide on how to create a VM as for the network share path
+
+**Good Luck!**

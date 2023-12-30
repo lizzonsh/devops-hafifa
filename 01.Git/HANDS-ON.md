@@ -7,15 +7,14 @@ get ready to meet Repositories in Azure DevOps's git!
 In DevOps project:
 - Create a repo with the next format: [name]-training
 - Create a new branch with the name of the chapter: ITTools
-
-
+- Set in branch policies a policy that you cannot commit directly into "main"
 
 # Disclaimer
 - For each chapter with hands on script task, create a new branch, after you finish the task,
 do a pull request to the branch "main" so someone from the team will do a code review before merging into main.
-We work this way in all of our big projects so the "production" version of the code will be clean.
+We work this way in all of our big projects so the "Production" version of the code will be clean.
 
-A quick example:
+**A quick example:**
 
 1. Created a new branch "ITTools" from "main" 
 2. Started a new script for the ITTools chapter
