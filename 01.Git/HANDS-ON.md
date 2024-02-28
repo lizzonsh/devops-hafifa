@@ -18,7 +18,7 @@ We work this way in all of our big projects so the "Production" version of the c
 
 1. Created a new branch "ITTools" from "main" 
 2. Started a new script for the ITTools chapter
-3. Add the scrript to git on "ITTools" branch
+3. Add the script to git on "ITTools" branch
 4. Commiting changes into "ITTools" branch
 5. When ready, do a pull request into "main"
 6. Call someone from the team to check
