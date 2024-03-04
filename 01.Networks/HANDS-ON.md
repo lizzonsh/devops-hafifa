@@ -11,6 +11,7 @@
 # API - HTTP Requests
 
 1. Before starting, read about API keys
-2. Download postman to your endpoint
-3. Use postman, to GET all of the projects from all of the Collections in the Azure DevOps and sorts it by A-Z
-4. Add your code to you AzureDevOps project, checkout from main when you work on it so when you do a PR we can do a code review
+2. Read about Negotiate, PAT and Integration Authentication.
+3. Download postman to your endpoint
+4. Use postman, to GET all of the projects from all of the Collections in the Azure DevOps and sorts it by A-Z
+5. Add your code to you AzureDevOps project, checkout from main when you work on it so when you do a PR we can do a code review
